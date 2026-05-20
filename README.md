@@ -27,7 +27,7 @@
 ```typescript
 const hieu = {
   name:     "Hieu Nguyen",
-  username: "kendo2501",
+  username: "kendonguyen",
   role:     "Full-stack Developer",
   location: "Vietnam 🇻🇳",
 
